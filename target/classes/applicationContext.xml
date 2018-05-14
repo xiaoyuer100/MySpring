@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean name="Product" class = "com.ydg.bean.Product">
+        <property name="id" value="1"></property>
+        <property name="name" value="小爱同学"></property>
+    </bean>
+</beans>
